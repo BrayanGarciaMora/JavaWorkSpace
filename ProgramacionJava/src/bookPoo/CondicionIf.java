@@ -5,7 +5,7 @@ public class CondicionIf {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 //		
-		int n = 2;
+		int n = 3;
 		int v1 = 4;
 		int v2 = 5;
 		int r;
