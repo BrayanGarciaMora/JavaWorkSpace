@@ -14,7 +14,11 @@ public class CalculoPromedioArreglo {
 	
 		double[] arreglo = new double[tamano];
 		for (int i = 0; i < tamano; i++) {
-		
+		sdfsaldfaldfjasldjfasjdlfasd
+			sdfadfadfadf
+			sadf
+			adfsad
+			f
 			
 			System.out.println(contador);
 			arreglo[i] = s.nextDouble();
