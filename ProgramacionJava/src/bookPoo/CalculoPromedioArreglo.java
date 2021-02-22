@@ -11,10 +11,9 @@ public class CalculoPromedioArreglo {
 		double promedio;
 		double sumatoria = 0;
 		int tamano = 10;
-		int contador = 1;
+	
 		double[] arreglo = new double[tamano];
 		for (int i = 0; i < tamano; i++) {
-			contador +=contador;
 		
 			
 			System.out.println(contador);
