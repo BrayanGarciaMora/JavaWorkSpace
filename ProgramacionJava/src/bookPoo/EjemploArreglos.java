@@ -12,8 +12,8 @@ public class EjemploArreglos {
 		}
 
 		EjemploArreglos ejemplo = new EjemploArreglos();
-		int indice = ejemplo.busquedaBinaria(numero, 40, 4, numero.length - 1);
-		System.out.println("El indice del valor '45' es: " + indice);
+		int indice = ejemplo.busquedaBinaria(numero, 40, 0, numero.length - 1);
+		System.out.println("El indice del valor '40' es: " + indice);
 	}
 
 	public int busquedaBinaria(int[] arreglo, int clave, int posInicial, int posFinal) {
